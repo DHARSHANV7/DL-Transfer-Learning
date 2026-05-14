@@ -136,17 +136,15 @@ def train_model(model, train_loader, test_loader, num_epochs=100):
 ### OUTPUT
 
 ## Training Loss, Validation Loss Vs Iteration Plot
-
-<img width="799" height="598" alt="image" src="https://github.com/user-attachments/assets/2059ec1b-c354-4425-90b6-d376b738f2bd" />
+<img width="902" height="687" alt="Screenshot 2026-05-14 094155" src="https://github.com/user-attachments/assets/1f9905c1-52f4-48d2-a253-3b878242dda7" />
 
 
 ## Confusion Matrix
-
-<img width="903" height="605" alt="image" src="https://github.com/user-attachments/assets/c146524d-faa1-4311-bbd4-10e6771d548d" />
+<img width="1017" height="701" alt="Screenshot 2026-05-14 094209" src="https://github.com/user-attachments/assets/68aa420c-05e6-440d-a23b-6e6fc288ea40" />
 
 
 ## Classification Report
-<img width="601" height="211" alt="image" src="https://github.com/user-attachments/assets/27146d09-83e5-4fb5-852c-d52da096a29d" />
+<img width="560" height="242" alt="Screenshot 2026-05-14 094223" src="https://github.com/user-attachments/assets/d2dfbda8-2f3d-406f-b310-e8cb5c565c70" />
 
 
 ### New Sample Data Prediction
